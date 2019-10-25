@@ -2,6 +2,8 @@
 %UPML, TFSF, no loss, planewave
 %Oliver Csernyava BME \mail: oliver.csernyava@sch.bme.hu
 
+% All rights reserved
+
 %Saves the frames to a 4D indexed graphics file
 %fig.IM -> Indices (at the size of the figure)
 %fig.M -> Color map of the figure (max 256x3 matrix)
