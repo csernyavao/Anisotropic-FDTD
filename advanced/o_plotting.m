@@ -2,6 +2,8 @@
 %UPML, TFSF, no loss, planewave
 %Oliver Csernyava BME Project Laboratory 1. \mail: oliver.csernyava@sch.bme.hu
 
+% All rights reserved
+
 %INITIALIZE PLOT-------------------------------------------------
 [X,Z] = meshgrid(x,z); %create the mesh for the visualization
 figure(1)
