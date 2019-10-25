@@ -2,6 +2,8 @@
 %UPML, TFSF, no loss, planewave
 %Oliver Csernyava BME Project Laboratory 1. \mail: oliver.csernyava@sch.bme.hu
 
+% All rights reserved
+
 x = (1:n_x)*dx; %spatial vectors for plotting
 z = (1:n_z)*dz;
 %_______________________________________________________________________
