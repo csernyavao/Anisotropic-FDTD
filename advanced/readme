@@ -2,6 +2,6 @@ Here we publish the source MATLAB files of the anisotropic FDTD algorithm.
 
 Run MASTER.m to set the model and simulation parameters, and to run the simulation.
 
-Run PLOT.m to write saved data to .GIF or INDEXED MATLAB files. 
+Run SAVE.m to write saved data to .GIF or INDEXED MATLAB files. 
 
-Run
+Run PLOT_inx.m to visualize saved INDEXED MATLAB files.
