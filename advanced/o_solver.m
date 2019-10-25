@@ -2,6 +2,8 @@
 %UPML, TFSF, no loss, planewave
 %Oliver Csernyava BME Project Laboratory 1. \mail: oliver.csernyava@sch.bme.hu
 
+% All rights reserved
+
 %MAIN LOOP##############################################################
 %initialization
 %%
