@@ -2,6 +2,8 @@
 %UPML, TFSF, no loss, planewave
 %Oliver Csernyava BME Project Laboratory 1. \mail: oliver.csernyava@sch.bme.hu
 
+% All rights reserved
+
 %run after you got the frame array from some simulation
 filename = append(Filename,'.gif');
 for k = 1:size(frame,2)
