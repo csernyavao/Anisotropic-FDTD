@@ -2,6 +2,8 @@
 %UPML, TFSF, no loss, planewave
 %Oliver Csernyava BME Project Laboratory 1. \mail: oliver.csernyava@sch.bme.hu
 
+% All rights reserved
+
 %DEFINE PARAMETERS
 eps_0 = 8.854*1e-12;
 mu_0  = 4*pi*1e-7;
