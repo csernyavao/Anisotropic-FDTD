@@ -5,3 +5,5 @@ Run MASTER.m to set the model and simulation parameters, and to run the simulati
 Run SAVE.m to write saved data to .GIF or INDEXED MATLAB files. 
 
 Run PLOT_inx.m to visualize saved INDEXED MATLAB files.
+
+Referred article: Okada, Naoki, and James B. Cole. "FDTD modeling of a cloak with a nondiagonal permittivity tensor." ISRN Optics 2012 (2012).
