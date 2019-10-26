@@ -6,8 +6,6 @@ Oliver Csernyava
 
 oliver.csernyava@sch.bme.hu
 
-Technical University of Budapest, Faculty of Electrical Engineering
+Technical University of Budapest, Faculty of Electrical Engineering, Department of Broadband Infocommunication and Electromagnetic Theory
 
-Department of Broadband Infocommunication and Electromagnetic Theory
-
-All rights reserved
+https://www.mathworks.com/matlabcentral/fileexchange/73120-anisotropic-cloak-fdtd All rights reserved
