@@ -1,6 +1,6 @@
 %EM cloaking FDTD 2D, diagonalized constitutive parameter tensor
 %UPML, TFSF, no loss, planewave
-%Oliver Csernyava BME \mail: oliver.csernyava@sch.bme.hu
+%Oliver Csernyava BME \mail: csernyava.oliver@sch.bme.hu
 
 % All rights reserved
 
